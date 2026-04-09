@@ -125,7 +125,7 @@ section {
 }
 
 .tarjeta {
-    background-color: #111318;
+    background-color: #c8cacc;
     padding: 20px;
     border-radius: 10px;
     border: 1px solid var(--border);
@@ -139,6 +139,12 @@ section {
 
 /* PELICULAS */
 .pelicula img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+/* SERIES */
+.serie img {
     width: 200px;
     border-radius: 10px;
 }
