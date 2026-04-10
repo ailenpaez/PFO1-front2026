@@ -3,7 +3,7 @@
 Trabajo Práctico correspondiente a la **Práctica Formativa Obligatoria 1 (PFO1)** de la materia Frontend, IFTS N.º 29.
 Se trata de una landing page de portafolio personal desarrollada con HTML5 y CSS3, publicada mediante Vercel.
 
-- 🔗 [**URL publicada:**](https://pfo-1-front2026.vercel.app/)
+- 🔗 [**URL publicada VERCEL.**](https://pfo-1-front2026.vercel.app/)
 * 📁 [**Repositorio GitHub.**](https://github.com/ailenpaez/PFO1-front2026)
 
 ---
