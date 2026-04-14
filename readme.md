@@ -33,8 +33,8 @@ Landing page que presenta información personal, habilidades técnicas, experien
 
 - [x] Enlace a Google Fonts incluido en la sección `head` del HTML
 - [x] La tipografía importada se aplica en el sitio
-- **Fuente elegida:** Ubuntu
-- **¿Por qué?** Es una tipografía moderna, clara y con buena legibilidad tanto en títulos como en texto corrido. Además es la fuente que utilizo en VSC.
+- **Fuente elegida:** ~~Ubuntu~~ JetBrains Mono.
+- **¿Por qué?** Es una tipografía moderna, clara y con buena legibilidad tanto en títulos como en texto corrido. **Además es la fuente que utilizo en VSC.**
 
 ### HTML
 
@@ -90,7 +90,7 @@ Landing page que presenta información personal, habilidades técnicas, experien
 
 - HTML5
 - CSS3 (Flexbox, variables CSS, media queries, transiciones)
-- Google Fonts — Ubuntu
+- Google Fonts — ~~Ubuntu~~ JetBrains Mono
 - Devicon (íconos de tecnologías)
 - JavaScript vanilla (toggle de tema)
 - Vercel
